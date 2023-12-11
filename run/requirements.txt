@@ -1,0 +1,8 @@
+numpy==1.22.3
+opencv_python==4.8.1.78
+opencv_python_headless==4.8.1.78
+Pillow==9.0.1
+Pillow==10.1.0
+rich==13.7.0
+tensorflow_gpu==2.8.0
+tqdm==4.63.1
