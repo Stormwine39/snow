@@ -1,5 +1,5 @@
 # snow
-Visit https://mikulab.com/snowtest for model files and related docs.
+Visit https://mikulab.com/snowtest for model files and related docs.If you have trouble reading in English, click on the Earth icon in the lower left corner of the page and we offer translations into many languages.
 
 Docker image：https://hub.docker.com/r/mikulab/snow/tags
 docker pull mikulab/snow:v2
