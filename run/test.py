@@ -1,11 +1,9 @@
-# Import necessary libraries
 import tensorflow as tf
 import numpy as np
 import os
 from PIL import Image
 import cv2
 from pathlib import Path
-#from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from collections import Counter
 import csv
 from rich.console import Console
