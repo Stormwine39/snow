@@ -2,6 +2,7 @@
 Visit https://mikulab.com/snowtest for model files and related docs.
 
 Docker image：https://hub.docker.com/r/mikulab/snow/tags
+docker pull mikulab/snow:v2
 
 Model Training：https://mikulab.com/cnn-moudel-training-guide/?swcfpc=1
 
